@@ -1,0 +1,112 @@
+[
+    {
+        "players": [
+            {
+                "id": "6311986495642",
+                "name": "Unknown",
+                "role": "lycanthrope",
+                "type": "Townsfolk",
+                "alignment": "Good"
+            },
+            {
+                "id": "7741654597786",
+                "name": "Unknown",
+                "role": "alsaahir",
+                "type": "Townsfolk",
+                "alignment": "Good"
+            },
+            {
+                "id": "6864126279834",
+                "name": "Mint Condition",
+                "role": "vizier",
+                "type": "Minion",
+                "alignment": "Evil"
+            },
+            {
+                "id": "6755621699738",
+                "name": "Sarah",
+                "role": "philosopher",
+                "type": "Townsfolk",
+                "alignment": "Good"
+            },
+            {
+                "id": "7610299777178",
+                "name": "Unknown",
+                "role": "fortuneteller",
+                "type": "Townsfolk",
+                "alignment": "Good"
+            },
+            {
+                "id": "6565757059226",
+                "name": "Nick",
+                "role": "witch",
+                "type": "Minion",
+                "alignment": "Evil"
+            },
+            {
+                "id": "6292248461466",
+                "name": "Unknown",
+                "role": "farmer",
+                "type": "Townsfolk",
+                "alignment": "Good"
+            }
+        ],
+        "winner": "Evil",
+        "game_id": 1
+    },
+    {
+        "players": [
+            {
+                "id": "6755621699738",
+                "name": "Sarah",
+                "role": "cannibal",
+                "type": "Townsfolk",
+                "alignment": "Good"
+            },
+            {
+                "id": "6565757059226",
+                "name": "Nick",
+                "role": "sage",
+                "type": "Townsfolk",
+                "alignment": "Good"
+            },
+            {
+                "id": "6864126279834",
+                "name": "Mint Condition",
+                "role": "empath",
+                "type": "Townsfolk",
+                "alignment": "Good"
+            },
+            {
+                "id": "7741654597786",
+                "name": "CaityV2",
+                "role": "boffin",
+                "type": "Minion",
+                "alignment": "Evil"
+            },
+            {
+                "id": "7610299777178",
+                "name": "Party",
+                "role": "alchemist",
+                "type": "Townsfolk",
+                "alignment": "Good"
+            },
+            {
+                "id": "6292057358490",
+                "name": "Bradzzers",
+                "role": "amnesiac",
+                "type": "Townsfolk",
+                "alignment": "Good"
+            },
+            {
+                "id": "6292300464282",
+                "name": "Ongaku",
+                "role": "philosopher",
+                "type": "Townsfolk",
+                "alignment": "Evil"
+            }
+        ],
+        "winner": "Good",
+        "game_id": 2
+    }
+]

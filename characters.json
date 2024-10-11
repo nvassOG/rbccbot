@@ -1,0 +1,667 @@
+[
+    {
+        "name": "alchemist",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "alsaahir",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "amnesiac",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "artist",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "atheist",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "balloonist",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "banshee",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "bountyhunter",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "cannibal",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "chambermaid",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "chef",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "choirboy",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "clockmaker",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "courtier",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "cultleader",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "dreamer",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "empath",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "engineer",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "exorcist",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "farmer",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "fisherman",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "flowergirl",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "fool",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "fortuneteller",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "gambler",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "general",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "gossip",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "grandmother",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "highpriestess",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "huntsman",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "innkeeper",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "investigator",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "juggler",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "king",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "knight",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "librarian",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "lycanthrope",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "magician",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "mathematician",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "mayor",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "minstrel",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "monk",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "nightwatchman",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "noble",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "oracle",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "pacifist",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "philosopher",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "pixie",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "poppygrower",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "preacher",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "professor",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "ravenkeeper",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "sage",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "sailor",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "savant",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "seamstress",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "shugenja",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "slayer",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "snakecharmer",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "soldier",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "steward",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "tealady",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "towncrier",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "undertaker",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "villageidiot",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "virgin",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "washerwoman",
+        "type": "Townsfolk",
+        "alignment": "Good"
+    },
+    {
+        "name": "acrobat",
+        "type": "Outsider",
+        "alignment": "Good"
+    },
+    {
+        "name": "barber",
+        "type": "Outsider",
+        "alignment": "Good"
+    },
+    {
+        "name": "butler",
+        "type": "Outsider",
+        "alignment": "Good"
+    },
+    {
+        "name": "damsel",
+        "type": "Outsider",
+        "alignment": "Good"
+    },
+    {
+        "name": "drunk",
+        "type": "Outsider",
+        "alignment": "Good"
+    },
+    {
+        "name": "golem",
+        "type": "Outsider",
+        "alignment": "Good"
+    },
+    {
+        "name": "goon",
+        "type": "Outsider",
+        "alignment": "Good"
+    },
+    {
+        "name": "hatter",
+        "type": "Outsider",
+        "alignment": "Good"
+    },
+    {
+        "name": "heretic",
+        "type": "Outsider",
+        "alignment": "Good"
+    },
+    {
+        "name": "klutz",
+        "type": "Outsider",
+        "alignment": "Good"
+    },
+    {
+        "name": "lunatic",
+        "type": "Outsider",
+        "alignment": "Good"
+    },
+    {
+        "name": "moonchild",
+        "type": "Outsider",
+        "alignment": "Good"
+    },
+    {
+        "name": "mutant",
+        "type": "Outsider",
+        "alignment": "Good"
+    },
+    {
+        "name": "ogre",
+        "type": "Outsider",
+        "alignment": "Good"
+    },
+    {
+        "name": "plaguedoctor",
+        "type": "Outsider",
+        "alignment": "Good"
+    },
+    {
+        "name": "politician",
+        "type": "Outsider",
+        "alignment": "Good"
+    },
+    {
+        "name": "puzzlemaster",
+        "type": "Outsider",
+        "alignment": "Good"
+    },
+    {
+        "name": "recluse",
+        "type": "Outsider",
+        "alignment": "Good"
+    },
+    {
+        "name": "saint",
+        "type": "Outsider",
+        "alignment": "Good"
+    },
+    {
+        "name": "snitch",
+        "type": "Outsider",
+        "alignment": "Good"
+    },
+    {
+        "name": "sweetheart",
+        "type": "Outsider",
+        "alignment": "Good"
+    },
+    {
+        "name": "tinker",
+        "type": "Outsider",
+        "alignment": "Good"
+    },
+    {
+        "name": "zealot",
+        "type": "Outsider",
+        "alignment": "Good"
+    },
+    {
+        "name": "assassin",
+        "type": "Minion",
+        "alignment": "Evil"
+    },
+    {
+        "name": "baron",
+        "type": "Minion",
+        "alignment": "Evil"
+    },
+    {
+        "name": "boffin",
+        "type": "Minion",
+        "alignment": "Evil"
+    },
+    {
+        "name": "boomdandy",
+        "type": "Minion",
+        "alignment": "Evil"
+    },
+    {
+        "name": "cerenovus",
+        "type": "Minion",
+        "alignment": "Evil"
+    },
+    {
+        "name": "devilsadvocate",
+        "type": "Minion",
+        "alignment": "Evil"
+    },
+    {
+        "name": "eviltwin",
+        "type": "Minion",
+        "alignment": "Evil"
+    },
+    {
+        "name": "fearmonger",
+        "type": "Minion",
+        "alignment": "Evil"
+    },
+    {
+        "name": "goblin",
+        "type": "Minion",
+        "alignment": "Evil"
+    },
+    {
+        "name": "godfather",
+        "type": "Minion",
+        "alignment": "Evil"
+    },
+    {
+        "name": "harpy",
+        "type": "Minion",
+        "alignment": "Evil"
+    },
+    {
+        "name": "marionette",
+        "type": "Minion",
+        "alignment": "Evil"
+    },
+    {
+        "name": "mastermind",
+        "type": "Minion",
+        "alignment": "Evil"
+    },
+    {
+        "name": "mezepheles",
+        "type": "Minion",
+        "alignment": "Evil"
+    },
+    {
+        "name": "organgrinder",
+        "type": "Minion",
+        "alignment": "Evil"
+    },
+    {
+        "name": "pithag",
+        "type": "Minion",
+        "alignment": "Evil"
+    },
+    {
+        "name": "poisoner",
+        "type": "Minion",
+        "alignment": "Evil"
+    },
+    {
+        "name": "psychopath",
+        "type": "Minion",
+        "alignment": "Evil"
+    },
+    {
+        "name": "scarletwoman",
+        "type": "Minion",
+        "alignment": "Evil"
+    },
+    {
+        "name": "spy",
+        "type": "Minion",
+        "alignment": "Evil"
+    },
+    {
+        "name": "summoner",
+        "type": "Minion",
+        "alignment": "Evil"
+    },
+    {
+        "name": "vizier",
+        "type": "Minion",
+        "alignment": "Evil"
+    },
+    {
+        "name": "widow",
+        "type": "Minion",
+        "alignment": "Evil"
+    },
+    {
+        "name": "witch",
+        "type": "Minion",
+        "alignment": "Evil"
+    },
+    {
+        "name": "alhadikhia",
+        "type": "Demon",
+        "alignment": "Evil"
+    },
+    {
+        "name": "fanggu",
+        "type": "Demon",
+        "alignment": "Evil"
+    },
+    {
+        "name": "imp",
+        "type": "Demon",
+        "alignment": "Evil"
+    },
+    {
+        "name": "kazali",
+        "type": "Demon",
+        "alignment": "Evil"
+    },
+    {
+        "name": "legion",
+        "type": "Demon",
+        "alignment": "Evil"
+    },
+    {
+        "name": "leviathan",
+        "type": "Demon",
+        "alignment": "Evil"
+    },
+    {
+        "name": "lilmonsta",
+        "type": "Demon",
+        "alignment": "Evil"
+    },
+    {
+        "name": "lleech",
+        "type": "Demon",
+        "alignment": "Evil"
+    },
+    {
+        "name": "lordoftyphon",
+        "type": "Demon",
+        "alignment": "Evil"
+    },
+    {
+        "name": "nodashii",
+        "type": "Demon",
+        "alignment": "Evil"
+    },
+    {
+        "name": "ojo",
+        "type": "Demon",
+        "alignment": "Evil"
+    },
+    {
+        "name": "po",
+        "type": "Demon",
+        "alignment": "Evil"
+    },
+    {
+        "name": "pukka",
+        "type": "Demon",
+        "alignment": "Evil"
+    },
+    {
+        "name": "riot",
+        "type": "Demon",
+        "alignment": "Evil"
+    },
+    {
+        "name": "shabaloth",
+        "type": "Demon",
+        "alignment": "Evil"
+    },
+    {
+        "name": "vigormortis",
+        "type": "Demon",
+        "alignment": "Evil"
+    },
+    {
+        "name": "vortox",
+        "type": "Demon",
+        "alignment": "Evil"
+    },
+    {
+        "name": "yaggababble",
+        "type": "Demon",
+        "alignment": "Evil"
+    },
+    {
+        "name": "zombuul",
+        "type": "Demon",
+        "alignment": "Evil"
+    }
+]
